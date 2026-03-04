@@ -6,6 +6,7 @@
 # где a, это число которое надо округлить, а b количество знаков после запятой
 # более подробно про функцию round смотрите в документации https://docs.python.org/3/search.html?q=round
 
+
 violator_songs_list = [
     ['World in My Eyes', 4.86],
     ['Sweetest Perfection', 4.43],
@@ -23,7 +24,15 @@ violator_songs_list = [
 # Обратите внимание, что делать много вычислений внутри print() - плохой стиль.
 # Лучше заранее вычислить необходимое, а затем в print(xxx, yyy, zzz)
 
-# TODO здесь ваш код
+# Ищем и суммируем время для нужных песен в списке
+total_time_list = 0
+for song in violator_songs_list:
+    if song[0] in ['Halo', 'Enjoy the Silence', 'Clean']:
+        total_time_list += song[1]
+
+# Округляем до двух знаков после запятой
+total_time_list_rounded = round(total_time_list, 2)
+print(f'Три песни звучат {total_time_list_rounded} минут')
 
 # Есть словарь песен группы Depeche Mode
 violator_songs_dict = {
@@ -41,4 +50,13 @@ violator_songs_dict = {
 # распечатайте общее время звучания трех песен: 'Sweetest Perfection', 'Policy of Truth' и 'Blue Dress'
 #   А другие три песни звучат ХХХ минут
 
-# TODO здесь ваш код
+# Суммируем время для указанных песен в словаре
+total_time_dict = (
+    violator_songs_dict['Sweetest Perfection'] +
+    violator_songs_dict['Policy of Truth'] +
+    violator_songs_dict['Blue Dress']
+)
+
+# Округляем до целого числа (как в примере формата)
+total_time_dict_rounded = round(total_time_dict)
+print(f'А другие три песни звучат {total_time_dict_rounded} минут')
