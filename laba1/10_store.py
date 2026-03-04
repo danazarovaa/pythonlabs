@@ -2,7 +2,6 @@
 # -*- coding: utf-8 -*-
 
 # Есть словарь кодов товаров
-
 goods = {
     'Лампа': '12345',
     'Стол': '23456',
@@ -11,7 +10,6 @@ goods = {
 }
 
 # Есть словарь списков количества товаров на складе.
-
 store = {
     '12345': [
         {'quantity': 27, 'price': 42},
@@ -32,10 +30,8 @@ store = {
 }
 
 # Рассчитать на какую сумму лежит каждого товара на складе
-# например для ламп
 
-lamps_cost = store[goods['Лампа']][0]['quantity'] * store[goods['Лампа']][0]['price']
-# или проще (/сложнее ?)
+# Лампа
 lamp_code = goods['Лампа']
 lamps_item = store[lamp_code][0]
 lamps_quantity = lamps_item['quantity']
@@ -43,13 +39,37 @@ lamps_price = lamps_item['price']
 lamps_cost = lamps_quantity * lamps_price
 print('Лампа -', lamps_quantity, 'шт, стоимость', lamps_cost, 'руб')
 
-# Вывести стоимость каждого вида товара на складе:
-# один раз распечать сколько всего столов и их общая стоимость,
-# один раз распечать сколько всего стульев и их общая стоимость,
-#   и т.д. на складе
-# Формат строки <товар> - <кол-во> шт, стоимость <общая стоимость> руб
+# Стол
+table_code = goods['Стол']
+tables_items = store[table_code]
+tables_total_quantity = tables_items[0]['quantity'] + tables_items[1]['quantity']
+tables_total_cost = (
+    tables_items[0]['quantity'] * tables_items[0]['price'] +
+    tables_items[1]['quantity'] * tables_items[1]['price']
+)
+print('Стол -', tables_total_quantity, 'шт, стоимость', tables_total_cost, 'руб')
 
-# WARNING для знающих циклы: БЕЗ циклов. Да, с переменными; да, неэффективно; да, копипаста.
-# Это задание на ручное вычисление - что бы потом понять как работают циклы и насколько с ними проще жить.
+# Диван
+sofa_code = goods['Диван']
+sofas_items = store[sofa_code]
+sofas_total_quantity = sofas_items[0]['quantity'] + sofas_items[1]['quantity']
+sofas_total_cost = (
+    sofas_items[0]['quantity'] * sofas_items[0]['price'] +
+    sofas_items[1]['quantity'] * sofas_items[1]['price']
+)
+print('Диван -', sofas_total_quantity, 'шт, стоимость', sofas_total_cost, 'руб')
 
-# TODO здесь ваш код
+# Стул
+chair_code = goods['Стул']
+chairs_items = store[chair_code]
+chairs_total_quantity = (
+    chairs_items[0]['quantity'] +
+    chairs_items[1]['quantity'] +
+    chairs_items[2]['quantity']
+)
+chairs_total_cost = (
+    chairs_items[0]['quantity'] * chairs_items[0]['price'] +
+    chairs_items[1]['quantity'] * chairs_items[1]['price'] +
+    chairs_items[2]['quantity'] * chairs_items[2]['price']
+)
+print('Стул -', chairs_total_quantity, 'шт, стоимость', chairs_total_cost, 'руб')
