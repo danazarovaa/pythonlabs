@@ -1,6 +1,6 @@
-# Отчет
-## задание 0
-### уловие:
+# Отчет по лабораторной работе №1
+## Задание 0
+### Условие:
 Дан словарь координат городов.
 Необходимо составить словарь словарей, содержащий расстояния между городами.
 Расстояние между двумя точками на координатной плоскости вычисляется по формуле:
@@ -19,7 +19,7 @@ Moscow, London, Paris
 ### Результат всей программы:
 ![](https://github.com/danazarovaa/pythonlabs/blob/master/image/00.png?raw=true)
 
-## Завдание 1
+## Задание 1
 ### Условие: 
 1. Вычислить площадь круга и вывести её на экран с точностью до четырёх знаков после запятой.
 Число π принять равным 3.1415926.
@@ -33,16 +33,20 @@ Moscow, London, Paris
 ### Результат всей программы:
 
 
-## Завдание 2
+
+![](https://github.com/danazarovaa/pythonlabs/blob/master/image/01.png?raw=true)
+## Задание 2
 ### Условие: 
 Расставьте знаки операций "плюс", "минус", "умножение" и скобки между числами "1 2 3 4 5" так, что бы получилось число "25".
 
 ### Описание проделанной работы: 
 Методом тыка находим нужную нам комбинацию, которая в итоге выглядит 1 * (2 + 3) * 4 + 5 и выводим результат данного примера
-Результат всей программы:
-["25"](https://github.com/Timur-ka01/labapython/blob/master/image/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202026-02-19%20223635.png?raw=true)
+###Результат всей программы:
 
-## Завдание 3
+
+![](https://github.com/danazarovaa/pythonlabs/blob/master/image/02.png?raw=true)
+
+## Задание 3
 ### Условие: 
  Выведите на консоль с помощью индексации строки, последовательно:
    первый фильм
@@ -53,9 +57,9 @@ Moscow, London, Paris
 ### Описание проделанной работы: 
 Высчитываем по правилам правильные срезу из нашей строки, после чего последовательно выводим определенные срезы которые требуются по условию задачи
 ### Результат всей программы:
+![](https://github.com/danazarovaa/pythonlabs/blob/master/image/03.png?raw=true)
 
-
-## Завдание 4
+## Задание 4
 ### Условие: 
 Создать два списка и вывыести:
 1. Выведите на консоль рост отца в формате "Рост отца - ХХ см"
@@ -73,9 +77,9 @@ Moscow, London, Paris
 
 ### Результат всей программы:
 
+![](https://github.com/danazarovaa/pythonlabs/blob/master/image/04.png?raw=true)
 
-
-## Завдание 5
+## Задание 5
 ### Условие: 
 Дан список животных в зоопарке
 Добавить медведя bear между львом и кенгуру.
@@ -94,10 +98,10 @@ Moscow, London, Paris
 При нахождении элемента его индекс увеличивается на 1, чтобы нумерация клеток начиналась с 1, а не с 0.
 
 ### Результат всей программы:
+![](https://github.com/danazarovaa/pythonlabs/blob/master/image/05.png?raw=true)
 
 
-
-## Завдание 6
+## Задание 6
 ### Условие: 
 1. распечатайте общее время звучания трех песен: 'Halo', 'Enjoy the Silence' и 'Clean' в формат: Три песни звучат ХХХ.XX минут
 2. распечатайте общее время звучания трех песен: 'Sweetest Perfection', 'Policy of Truth' и 'Blue Dress': А другие три песни звучат ХХХ минут
@@ -111,7 +115,7 @@ Moscow, London, Paris
 
 ### Результат всей программы:
 
-
+![](https://github.com/danazarovaa/pythonlabs/blob/master/image/06.png?raw=true)
 
 ## Задание 7
 ### Условие: 
@@ -127,7 +131,7 @@ Moscow, London, Paris
 
 ### Результат всей программы:
 
-
+![](https://github.com/danazarovaa/pythonlabs/blob/master/image/07.png?raw=true)
 
 ## Задание 8
 
@@ -148,7 +152,7 @@ Moscow, London, Paris
 
 ### Результат всей программы:
 
-
+![](https://github.com/danazarovaa/pythonlabs/blob/master/image/08.png?raw=true)
 
 ## Задание 9
 
@@ -161,20 +165,9 @@ Moscow, London, Paris
 
 ### Результат всей программы:
 
-
+![](https://github.com/danazarovaa/pythonlabs/blob/master/image/09.png?raw=true)
 
 ## Задание 10
-
-### Условие: 
-Создайте словарь цен на продкты
-
-### Описание проделанной работы: 
-Сначала был проанализирован исходный словарь shops, содержащий информацию о товарах в каждом магазине.
-Для удобства поиска минимальных цен была создана новая структура словаря sweets, где каждый ключ — это название сладости, а значение — список словарей, каждый из которых содержит: название магазина, цену товара в этом магазине
-
-### Результат всей программы:
-
-## Задание 11
 
 ### Условие: 
 Вывести стоимость каждого вида товара на складе:
@@ -195,17 +188,21 @@ Moscow, London, Paris
 
 ### Результат всей программы:
 
+![](https://github.com/danazarovaa/pythonlabs/blob/master/image/10.png?raw=true)
 
 
 ## Список использованных источников:
-* <https://doka.guide/tools/markdown/>
-* <https://pythonworld.ru/tipy-dannyx-v-python/stroki-funkcii-i-metody-strok.html>
-* <https://pythonworld.ru/tipy-dannyx-v-python/spiski-list-funkcii-i-metody-spiskov.html>
-* <https://pythonworld.ru/tipy-dannyx-v-python/mnozhestva-set-i-frozenset.html>
+* [Руководство по Маркдауну](https://doka.guide/tools/markdown/)
+* [Руководство по строкам Питона](https://pythonworld.ru/tipy-dannyx-v-python/stroki-funkcii-i-metody-strok.html)
+* [Руководсвто по спискам Питона](https://pythonworld.ru/tipy-dannyx-v-python/spiski-list-funkcii-i-metody-spiskov.html)
+* [Руководсвто по множествам Питона](https://pythonworld.ru/tipy-dannyx-v-python/mnozhestva-set-i-frozenset.html)
 
 ## руководство для добавления на github 
 ```
 git add (путь к файлу который надо поменять)
-git commit -m (название которое придумаешь)
-git push
+git commit -m (сохранить изменения локально с описанием)
+git push (отправить сохранения в Git Hub)
+git log (посмотреть историю коммитов)
+git pull (скачать новые изменения в вашу папку)
+git init (превратить текущую папку в репозиторий)
 ```
