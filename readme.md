@@ -1,4 +1,4 @@
-# Отчет
+https://github.com/danazarovaa/pythonlabs/blob/master/image/01.png?raw=true# Отчет
 ## задание 0
 ### уловие:
 Дан словарь координат городов.
