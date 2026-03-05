@@ -188,10 +188,10 @@ Moscow, London, Paris
 
 
 ## Список использованных источников:
-* <https://doka.guide/tools/markdown/>
-* <https://pythonworld.ru/tipy-dannyx-v-python/stroki-funkcii-i-metody-strok.html>
-* <https://pythonworld.ru/tipy-dannyx-v-python/spiski-list-funkcii-i-metody-spiskov.html>
-* <https://pythonworld.ru/tipy-dannyx-v-python/mnozhestva-set-i-frozenset.html>
+* [Руководство по Маркдауну](https://doka.guide/tools/markdown/)
+* [Руководство по строкам Питона](https://pythonworld.ru/tipy-dannyx-v-python/stroki-funkcii-i-metody-strok.html)
+* [Руководсвто по спискам Питона](https://pythonworld.ru/tipy-dannyx-v-python/spiski-list-funkcii-i-metody-spiskov.html)
+* [Руководсвто по множествам Питона](https://pythonworld.ru/tipy-dannyx-v-python/mnozhestva-set-i-frozenset.html)
 
 ## руководство для добавления на github 
 ```
