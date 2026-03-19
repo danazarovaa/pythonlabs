@@ -56,4 +56,5 @@
 
 ## Используемые ресурсы:
 [https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://skillbox.ru/media/code/funktsii-v-python-dlya-chego-oni-nuzhny-i-kak-s-nimi-rabotat/&ved=2ahUKEwiFvrH-5quTAxXHT1UIHbcRDLQQFnoECB8QAQ&usg=AOvVaw1OAxpvVv3B6VNFWDKjqi2F]
+
 [https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://pythonworld.ru/tipy-dannyx-v-python/slovari-dict-funkcii-i-metody-slovarej.html&ved=2ahUKEwiwi82656uTAxXNIxAIHaT2B94QFnoECC8QAQ&usg=AOvVaw3AeTsbbZC2HrB89IireoxL]
