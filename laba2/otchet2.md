@@ -20,7 +20,7 @@
 Вывод результата. 
 
 ### Результат всей программы:
-[]https://github.com/danazarovaa/pythonlabs/blob/master/laba2/image2/1.png?raw=true
+![](https://github.com/danazarovaa/pythonlabs/blob/master/laba2/image2/1.png?raw=true)
 ## Задание 2
 
 ### Условие: 
