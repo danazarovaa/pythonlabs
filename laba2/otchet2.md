@@ -53,3 +53,6 @@
 ###Результат всей программы:
 
 ![](https://github.com/danazarovaa/pythonlabs/blob/master/laba2/image2/3.png?raw=true)
+
+##Используемые ресурсы:
+[https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://skillbox.ru/media/code/funktsii-v-python-dlya-chego-oni-nuzhny-i-kak-s-nimi-rabotat/&ved=2ahUKEwiFvrH-5quTAxXHT1UIHbcRDLQQFnoECB8QAQ&usg=AOvVaw1OAxpvVv3B6VNFWDKjqi2F]
