@@ -36,7 +36,7 @@
 Вывод результата. 
 
 ### Результат всей программы:
-
+![](https://github.com/danazarovaa/pythonlabs/blob/master/laba2/image2/2.png?raw=true)
 ## Задание 3
 
 ### Условие: 
