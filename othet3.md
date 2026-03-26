@@ -69,5 +69,7 @@ x_1 =1, x_2=−0.125
 
 ## Использованные источники:
 [Рекурсия в программировании](https://youtu.be/IJDJ0kBx2LM)
+
 [Рекурсивные функции](https://proglib.io/p/samouchitel-po-python-dlya-nachinayushchih-chast-13-rekursivnye-funkcii-2023-01-23)
+
 [Рекурсия в блок схемах](https://habr.com/ru/articles/337030/)
