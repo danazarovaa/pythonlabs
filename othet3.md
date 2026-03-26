@@ -65,3 +65,9 @@ x_1 =1, x_2=−0.125
 
 ### Результат всей программы:
 ![](https://github.com/danazarovaa/pythonlabs/blob/master/laba3/image/4.png?raw=true)
+
+
+## Использованные источники:
+[Рекурсия в программировании](https://youtu.be/IJDJ0kBx2LM)
+[Рекурсивные функции](https://proglib.io/p/samouchitel-po-python-dlya-nachinayushchih-chast-13-rekursivnye-funkcii-2023-01-23)
+[Рекурсия в блок схемах](https://habr.com/ru/articles/337030/)
