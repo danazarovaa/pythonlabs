@@ -64,7 +64,7 @@ $x_1 =1, x_2=−0.125$
 Для остальных значений функция вызывает себя рекурсивно, подставляя результаты в формулу. Тестирование при i=5 подтвердило работоспособность. 
 
 ### Результат всей программы:
-![](https://github.com/danazarovaa/pythonlabs/blob/master/laba3/image/4.png?raw=true)
+![](https://github.com/danazarovaa/pythonlabs/blob/master/laba3/4.png?raw=true)
 
 
 ## Использованные источники:
