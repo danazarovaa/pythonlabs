@@ -14,7 +14,7 @@
 
 ### Результат всей программы:
 
-![](https://github.com/danazarovaa/pythonlabs/blob/master/laba3/image/1.png?raw=true)
+![](https://github.com/danazarovaa/pythonlabs/blob/master/laba4/image4/1.png?raw=true)
 
 
 ## Задание 2
