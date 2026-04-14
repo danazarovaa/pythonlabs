@@ -10,32 +10,15 @@
 
 ### Описание проделанной работы
 
-Написан калькулятор‑замыкание с различными операциями, которые меняются в самом коде, и начальным значением. 
-Вложенная функция calc() определена внутри make_calc().
-Внутри calc() происходит обращение к result (который равен 1) и выполняется операция деления: result /= 4 → result становится 0.25. Это значение возвращается и выводится на экран, а также сохраняется для следующих вызовов. 
-При делении на ноль, программа выдает ошибку.
+Код генерирует 20 случайных чисел (1–50) с помощью линейного конгруэнтного генератора gen(seed), подсчитывает количество их делителей с помощью функции count_del(n), фильтрует числа, у которых делителей ≤ 6 (через filter() и функцию us(x)), и выводит два списка: исходный и отфильтрованный.
 
 ### Результат всей программы:
 
-![](https://github.com/danazarovaa/pythonlabs/blob/master/laba4/image4/1.png?raw=true)
-
-
-## Задание 2
-
-### Условие: 
-
-Применить декоратор к замыканию
-
-### Описание проделанной работы: 
-
-К функции применен декоратор, который запускает исходную функцию заданное число раз с заданными параметрами, после вовзращает список результатов всех вызовов.
-
-### Результат всей программы:
-![](https://github.com/danazarovaa/pythonlabs/blob/master/laba4/image4/2.png?raw=true)
+![]()
 
 ## Использованные источники:
-[Декораторы в Питоне](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://habr.com/ru/companies/otus/articles/727590/&ved=2ahUKEwjXwaKvzeCTAxWzFBAIHd9wIdMQFnoECAwQAQ&usg=AOvVaw37l-cxLS785lf9MGqsUrsr)
+[Как работает yield в Питоне](https://habr.com/ru/articles/132554/)
 
-[Функции замыкания в Питоне](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://metanit.com/python/tutorial/2.19.php&ved=2ahUKEwjZ49bGzeCTAxXCi8MKHYnFKa0QFnoECAwQAQ&usg=AOvVaw1RQl0fb-TMDN4VGm34-mq8)
+[Как работает filter в Питоне](https://thecode.media/funkciya-filter-v-python/)
 
 
