@@ -14,7 +14,7 @@
 
 ### Результат всей программы:
 
-![]()
+![](https://github.com/danazarovaa/pythonlabs/blob/master/image5.png?raw=true)
 
 ## Использованные источники:
 [Как работает yield в Питоне](https://habr.com/ru/articles/132554/)
