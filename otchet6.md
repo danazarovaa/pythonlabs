@@ -18,11 +18,11 @@
 
 ### Результат всей программы:
 
-![](https://github.com/danazarovaa/pythonlabs/blob/master/image5.png?raw=true)
+![](https://github.com/danazarovaa/pythonlabs/blob/master/image6.png?raw=true)
 
 ## Использованные источники:
-[Как работает yield в Питоне](https://habr.com/ru/articles/132554/)
+[Библиотека Tkiner в Питоне](https://docs.python.org/3/library/tkinter.html)
 
-[Как работает filter в Питоне](https://thecode.media/funkciya-filter-v-python/)
+[Модули в Питоне](https://docs.python.org/3/tutorial/modules.html)
 
 
