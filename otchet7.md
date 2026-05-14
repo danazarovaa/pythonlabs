@@ -21,9 +21,9 @@
 ![](https://github.com/danazarovaa/pythonlabs/blob/master/lab7.png?raw=true)
 
 ## Использованные источники:
-[Библиотека Tkiner в Питоне](https://docs.python.org/3/library/tkinter.html)
+[Абстрактные классы в Питоне](https://docs.python.org/3/library/abc.html)
 
-[Модули в Питоне](https://docs.python.org/3/tutorial/modules.html)
+[Дандер метод](https://habr.com/ru/articles/1033432/)
 
-
+[Иерархия наследования](https://habr.com/ru/articles/961166/)
 
