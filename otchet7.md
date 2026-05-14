@@ -18,7 +18,7 @@
 
 ### Результат всей программы:
 
-![](https://github.com/danazarovaa/pythonlabs/blob/master/image6.png?raw=true)
+![](https://github.com/danazarovaa/pythonlabs/blob/master/lab7.png?raw=true)
 
 ## Использованные источники:
 [Библиотека Tkiner в Питоне](https://docs.python.org/3/library/tkinter.html)
