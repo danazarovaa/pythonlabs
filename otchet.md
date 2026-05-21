@@ -5,7 +5,7 @@
 ## Задание 1
 
 ### Условие:
-https://github.com/danazarovaa/pythonlabs/blob/master/otchet81.png?raw=true
+![](https://github.com/danazarovaa/pythonlabs/blob/master/otchet81.png?raw=true)
 ### Описание проделанной работы
 
 
