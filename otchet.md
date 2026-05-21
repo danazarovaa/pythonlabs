@@ -16,12 +16,12 @@
 
 ### Результат всей программы:
 
-![](https://github.com/danazarovaa/pythonlabs/blob/master/lab7.png?raw=true)
+![](https://github.com/danazarovaa/pythonlabs/blob/master/ToDo.png?raw=true)
 
 ## Использованные источники:
-[Абстрактные классы в Питоне](https://docs.python.org/3/library/abc.html)
+[Основные концепции в ООП](https://practicum.yandex.ru/blog/obektno-orientirovannoe-programmirovanie/?utm_source=yandex&utm_medium=cpc&utm_campaign=Yan_Perfmax_RF_other_Resk_b2c_Gener_Regular_Blog-3_460&utm_content=sty_search:s_yandex.ru:cid_117714809:gid_5535841336:kw_---autotargeting:pid_54184076519:aid_16806999735:crid_0:rid_54184076519:p_1:pty_dynamic_places:mty_:mkw_:dty_desktop:cgcid_0:rn_Сургут:rid_973&utm_term=---autotargeting&etext=)
 
-[Дандер метод](https://habr.com/ru/articles/1033432/)
+[Работа в SQLite](https://habr.com/ru/articles/754400/)
 
 [Иерархия наследования](https://habr.com/ru/articles/961166/)
 
